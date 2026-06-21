@@ -1,0 +1,1231 @@
+[
+  {
+    "name": "Maurya",
+    "leaderName": "Ashoka",
+    "preferredVictoryType": "Cultural",
+    "startBias": [
+      "Hill"
+    ],
+    "innerColor": [
+      255,
+      255,
+      255
+    ],
+    "outerColor": [
+      230,
+      126,
+      34
+    ],
+    "uniqueName": "Edicts of Dhamma",
+    "uniques": [
+      "[+20]% [Faith]",
+      "[+20]% [Culture] [in all cities]",
+      "[1] Happiness from each type of luxury resource"
+    ],
+    "cities": [
+      "Pataliputra",
+      "Taxila",
+      "Ujjain",
+      "Vidisha",
+      "Kaushambi",
+      "Varanasi",
+      "Mathura",
+      "Suvarnagiri",
+      "Tosali",
+      "Kalinga",
+      "Magadha",
+      "Gandhara",
+      "Pushkalavati",
+      "Sravasti",
+      "Champa"
+    ],
+    "startIntroPart1": "I am Ashoka, who ruled Magadha and conquered Kalinga - and then, sickened by the bloodshed, laid down the sword forever.",
+    "startIntroPart2": "I built my empire on Dhamma instead: edicts of compassion carved into stone and pillars, so that all who came after would remember that conquest by righteousness outlasts conquest by war.",
+    "introduction": "I am Ashoka the Great, Emperor of Maurya. Let us speak as civilized rulers should.",
+    "declaringWar": "I had hoped my edicts would be heard, but it seems force is the only language you understand.",
+    "defeated": "The wheel of Dhamma turns even in defeat. My edicts will outlast both of our empires.",
+    "neutralHello": "Peace and prosperity to you, traveler.",
+    "hateHello": "What do you want now?",
+    "tradeRequest": "Trade enriches both our peoples. Shall we make an agreement?",
+    "civilopediaText": [
+      {
+        "text": "I am Ashoka, who ruled Magadha and conquered Kalinga - and then, sickened by the bloodshed, laid down the sword forever."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Edicts of Dhamma: +20% Faith, +20% Culture in all cities, and +1 Happiness from each type of luxury resource.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Mauryan War Elephant: a stronger Horseman replacement, bonus Strength against Mounted units."
+      },
+      {
+        "text": "Unique Building — Sanchi Stupa: replaces Temple; extra Faith and Culture."
+      },
+      {
+        "text": "Unique Improvement — Ashokan Pillar: +2 Culture, +1 Faith."
+      }
+    ]
+  },
+  {
+    "name": "Gupta",
+    "leaderName": "Chandragupta II",
+    "preferredVictoryType": "Scientific",
+    "startBias": [
+      "Grassland"
+    ],
+    "innerColor": [
+      128,
+      0,
+      32
+    ],
+    "outerColor": [
+      212,
+      175,
+      55
+    ],
+    "uniqueName": "Golden Age of Learning",
+    "uniques": [
+      "[+20]% [Science] [in all cities]",
+      "[+20]% Great Person generation [in all cities]"
+    ],
+    "cities": [
+      "Pataliputra",
+      "Ujjain",
+      "Ayodhya",
+      "Prayag",
+      "Mathura",
+      "Varanasi",
+      "Nalanda",
+      "Vaishali",
+      "Kosambi",
+      "Bharuch",
+      "Saketa",
+      "Kashi",
+      "Gaya",
+      "Indraprastha",
+      "Malwa"
+    ],
+    "startIntroPart1": "I am Chandragupta the Second, Vikramaditya, Sun of Valor. Under my reign, Aryabhata charts the heavens and our scholars give the world the very concept of zero.",
+    "startIntroPart2": "Poetry, mathematics, astronomy, and art flourish in my courts. History will call this age golden - let us see how brightly your civilization shines beside it.",
+    "introduction": "Greetings. I am Chandragupta II of the Gupta Empire. Wisdom and strength both have their place at this table.",
+    "declaringWar": "Even the wisest ruler must sometimes draw the sword. You leave me little choice.",
+    "defeated": "Empires fall, but knowledge endures. What we have learned cannot be unconquered.",
+    "neutralHello": "Welcome. What brings you to my court?",
+    "hateHello": "Speak plainly and be brief.",
+    "tradeRequest": "Commerce between learned nations benefits us both.",
+    "civilopediaText": [
+      {
+        "text": "I am Chandragupta the Second, Vikramaditya, Sun of Valor. Under my reign, Aryabhata charts the heavens and our scholars give the world the very concept of zero."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Golden Age of Learning: +20% Science in all cities and +20% Great Person generation.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Gupta Cavalry: a stronger Knight replacement with the Great Generals I promotion."
+      },
+      {
+        "text": "Unique Building — Nalanda Mahavihara: replaces Library; extra Science and faster Great Person growth."
+      },
+      {
+        "text": "Unique Improvement — Astronomical Observatory: +3 Science."
+      }
+    ]
+  },
+  {
+    "name": "Chola",
+    "leaderName": "Rajaraja Chola I",
+    "preferredVictoryType": "Domination",
+    "startBias": [
+      "Coast"
+    ],
+    "innerColor": [
+      255,
+      255,
+      255
+    ],
+    "outerColor": [
+      0,
+      105,
+      148
+    ],
+    "uniqueName": "Lords of the Eastern Seas",
+    "uniques": [
+      "[+25]% [Gold] from Trade Routes",
+      "Enables embarkation for land units"
+    ],
+    "cities": [
+      "Thanjavur",
+      "Kanchipuram",
+      "Madurai",
+      "Uraiyur",
+      "Gangaikonda Cholapuram",
+      "Kaveripattinam",
+      "Nagapattinam",
+      "Mamallapuram",
+      "Chidambaram",
+      "Kumbakonam",
+      "Tiruchirapalli",
+      "Rameswaram",
+      "Kollam",
+      "Vellore",
+      "Salem"
+    ],
+    "startIntroPart1": "I am Rajaraja Chola, Lord of the rising tides. My fleets have carried our banner to Lanka, the Maldives, and across the eastern seas to Srivijaya itself.",
+    "startIntroPart2": "I have raised the great temple of Thanjavur to touch the sky, its tower built of solid granite. Let the world see what a kingdom of the sea can build on land.",
+    "introduction": "I am Rajaraja Chola I. My ships rule the waters - I trust we can also find calmer seas between us.",
+    "declaringWar": "The tide turns against you. My fleets and my armies will see this through.",
+    "defeated": "The seas I commanded for so long now carry news of my fall. Remember the name Chola all the same.",
+    "neutralHello": "The winds favor us today. Speak your purpose.",
+    "hateHello": "You test my patience as the storms test my ships.",
+    "tradeRequest": "A trade route between our lands would profit us both handsomely.",
+    "civilopediaText": [
+      {
+        "text": "I am Rajaraja Chola, Lord of the rising tides. My fleets have carried our banner to Lanka, the Maldives, and across the eastern seas to Srivijaya itself."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Lords of the Eastern Seas: +25% Gold from Trade Routes, and land units may embark onto water without research.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Chola Catamaran: a faster Trireme replacement with extra Sight."
+      },
+      {
+        "text": "Unique Building — Nagapattinam Harbor: replaces Harbor; extra Gold and faster ship production."
+      },
+      {
+        "text": "Unique Improvement — Temple Tank: +1 Food, +2 Gold."
+      }
+    ]
+  },
+  {
+    "name": "Mughals",
+    "leaderName": "Akbar",
+    "preferredVictoryType": "Domination",
+    "startBias": [
+      "Plains"
+    ],
+    "innerColor": [
+      255,
+      253,
+      208
+    ],
+    "outerColor": [
+      0,
+      102,
+      51
+    ],
+    "uniqueName": "Sulh-i-Kul",
+    "uniques": [
+      "[+20]% Production when constructing [Culture] wonders [in all cities]",
+      "[1] Happiness from each type of luxury resource",
+      "[+20]% Strength for cities"
+    ],
+    "cities": [
+      "Agra",
+      "Delhi",
+      "Lahore",
+      "Fatehpur Sikri",
+      "Allahabad",
+      "Ajmer",
+      "Kabul",
+      "Multan",
+      "Surat",
+      "Patna",
+      "Dhaka",
+      "Hyderabad",
+      "Aurangabad",
+      "Srinagar",
+      "Burhanpur"
+    ],
+    "startIntroPart1": "I am Akbar, Padishah of the Mughals. I rule a realm of a hundred peoples and a hundred faiths, and I have learned that an empire endures by tolerance, not by the sword alone.",
+    "startIntroPart2": "My architects raise forts of red sandstone and gardens of paradise; my court welcomes scholars of every creed. Let us see whether your civilization can match such grandeur.",
+    "introduction": "I am Akbar. My empire spans many peoples bound together - I extend the same hand of peace to you.",
+    "declaringWar": "I have offered every ruler tolerance and reason. You have chosen war instead - so be it.",
+    "defeated": "An empire built on a hundred peoples does not vanish so easily. We will remember this.",
+    "neutralHello": "Peace be upon you. What business brings you before the Peacock Throne?",
+    "hateHello": "Choose your next words with care.",
+    "tradeRequest": "Goods flow freely through my empire - let us open a route between our lands.",
+    "civilopediaText": [
+      {
+        "text": "I am Akbar, Padishah of the Mughals. I rule a realm of a hundred peoples and a hundred faiths, and I have learned that an empire endures by tolerance, not by the sword alone."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Sulh-i-Kul: +20% Production toward Culture wonders, +1 Happiness from each luxury type, +20% City Strength.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Zamburak: a faster, harder-hitting Cannon replacement."
+      },
+      {
+        "text": "Unique Building — Shalimar Bagh: replaces Garden; extra Happiness and Culture."
+      },
+      {
+        "text": "Unique Improvement — Mughal Hunting Ground: +1 Happiness, +1 Gold."
+      }
+    ]
+  },
+  {
+    "name": "Vijayanagara",
+    "leaderName": "Krishnadevaraya",
+    "preferredVictoryType": "Cultural",
+    "startBias": [
+      "Hill"
+    ],
+    "innerColor": [
+      255,
+      215,
+      0
+    ],
+    "outerColor": [
+      139,
+      0,
+      0
+    ],
+    "uniqueName": "Lord of the Diamond Throne",
+    "uniques": [
+      "[+25]% [Gold] from Trade Routes",
+      "[+15]% Production when constructing [Culture] wonders [in all cities]"
+    ],
+    "cities": [
+      "Vijayanagara",
+      "Penukonda",
+      "Chandragiri",
+      "Gingee",
+      "Udayagiri",
+      "Srirangapatna",
+      "Vellore",
+      "Tirupati",
+      "Bellary",
+      "Anegondi",
+      "Hosapete",
+      "Kanchipuram"
+    ],
+    "startIntroPart1": "I am Krishnadevaraya, ruler of Vijayanagara, the City of Victory. My markets overflow with diamonds, and my temples rise higher than any before them.",
+    "startIntroPart2": "Poets and architects both call my court home. Let us see whether your realm can match such splendor.",
+    "introduction": "I am Krishnadevaraya of Vijayanagara. Wealth and culture both flow from strength - let us speak as equals.",
+    "declaringWar": "You coveted what my city built. Now you shall face the army that defends it.",
+    "defeated": "The City of Victory has fallen at last. Its name will not be forgotten.",
+    "neutralHello": "Welcome to my court. State your business.",
+    "hateHello": "Speak quickly.",
+    "civilopediaText": [
+      {
+        "text": "I am Krishnadevaraya, ruler of Vijayanagara, the City of Victory. My markets overflow with diamonds, and my temples rise higher than any before them."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Lord of the Diamond Throne: +25% Gold from Trade Routes and +15% Production toward Culture wonders.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Vijayanagara Nayaka: a stronger Longswordsman replacement, bonus vs Melee units."
+      },
+      {
+        "text": "Unique Building — Hampi Bazaar: replaces Market; extra Gold and a free luxury resource copy."
+      },
+      {
+        "text": "Unique Improvement — Hampi Quarry: +2 Production, +1 Gold."
+      }
+    ]
+  },
+  {
+    "name": "Marathas",
+    "leaderName": "Shivaji",
+    "preferredVictoryType": "Domination",
+    "startBias": [
+      "Hill"
+    ],
+    "innerColor": [
+      255,
+      255,
+      255
+    ],
+    "outerColor": [
+      255,
+      103,
+      31
+    ],
+    "uniqueName": "Ganimi Kava",
+    "uniques": [
+      "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+      "[+20]% Production when constructing [Mounted] units [in all cities]"
+    ],
+    "cities": [
+      "Raigad",
+      "Pune",
+      "Satara",
+      "Kolhapur",
+      "Pratapgad",
+      "Sinhagad",
+      "Panhala",
+      "Nashik",
+      "Indore",
+      "Gwalior",
+      "Vadodara",
+      "Thanjavur"
+    ],
+    "startIntroPart1": "I am Shivaji, founder of Swarajya - self-rule. From the forts of the Sahyadri hills, I have humbled empires far larger than my own.",
+    "startIntroPart2": "My horsemen strike like lightning and vanish into the hills before the enemy can answer. Test me at your own risk.",
+    "introduction": "I am Shivaji. I did not inherit an empire - I carved one from the mountains. I extend you the same respect I'd want in return.",
+    "declaringWar": "You mistake patience for weakness. My hill forts have humbled greater armies than yours.",
+    "defeated": "A fort may fall, but the spirit of Swarajya does not die with it.",
+    "neutralHello": "Speak your purpose, traveler.",
+    "hateHello": "My patience wears thin.",
+    "civilopediaText": [
+      {
+        "text": "I am Shivaji, founder of Swarajya - self-rule. From the forts of the Sahyadri hills, I have humbled empires far larger than my own."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Ganimi Kava: +15% combat Strength on home soil, and +20% Production toward Mounted units.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Maratha Bargir: a faster Lancer replacement built for raiding."
+      },
+      {
+        "text": "Unique Building — Maratha Hill Fort: replaces Walls; stronger, plus a home-soil combat bonus."
+      },
+      {
+        "text": "Unique Improvement — Hill Watchtower: +1 Culture, 25% defensive bonus to units standing on it."
+      }
+    ]
+  },
+  {
+    "name": "Delhi Sultanate",
+    "leaderName": "Alauddin Khalji",
+    "preferredVictoryType": "Domination",
+    "startBias": [
+      "Plains"
+    ],
+    "innerColor": [
+      218,
+      165,
+      32
+    ],
+    "outerColor": [
+      0,
+      100,
+      0
+    ],
+    "uniqueName": "Market Reforms",
+    "uniques": [
+      "[+20]% Production when constructing [Melee] units [in all cities]",
+      "[-15]% Gold cost of acquiring tiles [in all cities]"
+    ],
+    "cities": [
+      "Delhi",
+      "Lahore",
+      "Multan",
+      "Ajmer",
+      "Gwalior",
+      "Jaunpur",
+      "Daulatabad",
+      "Gaur",
+      "Kara",
+      "Badaun",
+      "Anhilwara",
+      "Chanderi"
+    ],
+    "startIntroPart1": "I am Alauddin Khalji, Sultan of Delhi. I have fixed the prices of grain and cloth alike, and I have turned back the Mongol hordes at my gates.",
+    "startIntroPart2": "An empire is built on discipline as much as conquest. You would do well to remember that.",
+    "introduction": "I am Alauddin Khalji. My armies are vast and my treasury is full - choose your dealings with me carefully.",
+    "declaringWar": "I turned back the Mongols themselves. You will fare no better.",
+    "defeated": "Even the strictest discipline could not hold back fate forever.",
+    "neutralHello": "State your business and be brief.",
+    "hateHello": "You try my patience.",
+    "civilopediaText": [
+      {
+        "text": "I am Alauddin Khalji, Sultan of Delhi. I have fixed the prices of grain and cloth alike, and I have turned back the Mongol hordes at my gates."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Market Reforms: +20% Production toward Melee units, and tiles cost 15% less Gold to buy.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Khalji Ghazi: a stronger Pikeman replacement, bonus vs Mounted and vs cities."
+      },
+      {
+        "text": "Unique Building — Delhi Madrasa: replaces University; extra Science from Jungle tiles."
+      },
+      {
+        "text": "Unique Improvement — Sarai Outpost: +2 Gold."
+      }
+    ]
+  },
+  {
+    "name": "Pallava",
+    "leaderName": "Narasimhavarman I",
+    "preferredVictoryType": "Cultural",
+    "startBias": [
+      "Coast"
+    ],
+    "innerColor": [
+      255,
+      255,
+      255
+    ],
+    "outerColor": [
+      178,
+      80,
+      60
+    ],
+    "uniqueName": "Mamalla, the Great Wrestler",
+    "uniques": [
+      "[+20]% [Culture] [in all cities]",
+      "[+20]% Production when constructing [Culture] wonders [in all cities]"
+    ],
+    "cities": [
+      "Kanchipuram",
+      "Mahabalipuram",
+      "Vellore",
+      "Arcot",
+      "Tiruchirapalli",
+      "Nellore",
+      "Cuddalore",
+      "Pondicherry",
+      "Chingleput",
+      "Tirukalukundram"
+    ],
+    "startIntroPart1": "I am Narasimhavarman, called Mamalla - the Great Wrestler. My sculptors carve entire temples from single boulders at Mahabalipuram, facing the eastern sea.",
+    "startIntroPart2": "I have humbled the Chalukyas and sent my fleet across the waters to restore an ally's throne in Lanka. Let our two realms find more peaceful business.",
+    "introduction": "I am Narasimhavarman of the Pallavas. My shore temples have stood against the sea itself - I trust we can build something lasting between us as well.",
+    "declaringWar": "I have wrestled kings to the ground before. You will be no exception.",
+    "defeated": "The waves will keep wearing at my shore temples, just as you have worn down my armies.",
+    "neutralHello": "Peace to you. What brings you to Kanchipuram?",
+    "hateHello": "Choose your words carefully.",
+    "civilopediaText": [
+      {
+        "text": "I am Narasimhavarman, called Mamalla - the Great Wrestler. My sculptors carve entire temples from single boulders at Mahabalipuram, facing the eastern sea."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Mamalla, the Great Wrestler: +20% Culture in all cities and +20% Production toward Culture wonders.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Pallava War Galley: a stronger Trireme replacement with extra Sight."
+      },
+      {
+        "text": "Unique Building — Mahabalipuram Shore Temple: replaces Lighthouse; extra Culture and coastal Food."
+      },
+      {
+        "text": "Unique Improvement — Monolithic Rath Shrine: +2 Culture."
+      }
+    ]
+  },
+  {
+    "name": "Chalukya",
+    "leaderName": "Pulakeshin II",
+    "preferredVictoryType": "Domination",
+    "startBias": [
+      "Plains"
+    ],
+    "innerColor": [
+      128,
+      0,
+      0
+    ],
+    "outerColor": [
+      153,
+      101,
+      21
+    ],
+    "uniqueName": "Conqueror of Harsha",
+    "uniques": [
+      "[+20]% Production when constructing [Melee] units [in all cities]",
+      "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
+    ],
+    "cities": [
+      "Badami",
+      "Aihole",
+      "Pattadakal",
+      "Kalyani",
+      "Vatapi",
+      "Banavasi",
+      "Vengi",
+      "Lokapura",
+      "Kurnool",
+      "Bijapur"
+    ],
+    "startIntroPart1": "I am Pulakeshin, second of my name. I halted the great Harsha himself at the Narmada and forced him to abandon his ambitions southward.",
+    "startIntroPart2": "My capital at Badami is carved into red sandstone cliffs, fortress and temple alike. Cross me and you will learn why Harsha turned back.",
+    "introduction": "I am Pulakeshin II of the Chalukyas. I have stopped greater armies than most - speak plainly with me.",
+    "declaringWar": "Even Harsha learned the cost of marching against me. You will learn it too.",
+    "defeated": "No fortress holds forever. Remember that I once held the line where even Harsha could not pass.",
+    "neutralHello": "What business brings you before Badami's gates?",
+    "hateHello": "Mind your tone.",
+    "civilopediaText": [
+      {
+        "text": "I am Pulakeshin, second of my name. I halted the great Harsha himself at the Narmada and forced him to abandon his ambitions southward."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Conqueror of Harsha: +20% Production toward Melee units, and +15% combat Strength on home soil.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Chalukya Swordsman: a stronger Swordsman replacement, bonus vs cities."
+      },
+      {
+        "text": "Unique Building — Badami Cave Temple: replaces Monument; extra Culture and Faith."
+      },
+      {
+        "text": "Unique Improvement — Cave Sanctuary: +1 Faith, +1 Culture."
+      }
+    ]
+  },
+  {
+    "name": "Rashtrakuta",
+    "leaderName": "Krishna I",
+    "preferredVictoryType": "Cultural",
+    "startBias": [
+      "Hill"
+    ],
+    "innerColor": [
+      212,
+      175,
+      55
+    ],
+    "outerColor": [
+      90,
+      90,
+      90
+    ],
+    "uniqueName": "Carver of Kailasa",
+    "uniques": [
+      "[+20]% Production when constructing [Culture] wonders [in all cities]",
+      "[+20]% Production towards any buildings that already exist in the Capital"
+    ],
+    "cities": [
+      "Manyakheta",
+      "Ellora",
+      "Nashik",
+      "Gulbarga",
+      "Latur",
+      "Achalpur",
+      "Vatapi",
+      "Vengi",
+      "Ujjain",
+      "Paithan"
+    ],
+    "startIntroPart1": "I am Krishna of the Rashtrakutas. At Ellora I have ordered an entire temple carved downward from a single mountain of solid rock - the Kailasa, a mountain reshaped into a god's home.",
+    "startIntroPart2": "What other ruler commands the very earth to become a monument? Show me what you have built.",
+    "introduction": "I am Krishna I. My masons shape mountains into temples - I wonder what your civilization has shaped.",
+    "declaringWar": "I carved a temple from solid stone. Carving through your defenses will be easier still.",
+    "defeated": "Kailasa will stand long after this defeat is forgotten. Some things outlast even empires.",
+    "neutralHello": "Welcome. What do you seek?",
+    "hateHello": "Speak, and be done with it.",
+    "civilopediaText": [
+      {
+        "text": "I am Krishna of the Rashtrakutas. At Ellora I have ordered an entire temple carved downward from a single mountain of solid rock - the Kailasa, a mountain reshaped into a god's home."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Carver of Kailasa: +20% Production toward Culture wonders, and +20% Production toward buildings already built in the Capital.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Rashtrakuta Warship: a stronger Galleass replacement."
+      },
+      {
+        "text": "Unique Building — Ellora Rock Temple: replaces Workshop; extra Culture alongside its Production."
+      },
+      {
+        "text": "Unique Improvement — Quarry Terrace: +2 Production."
+      }
+    ]
+  },
+  {
+    "name": "Kushan",
+    "leaderName": "Kanishka",
+    "preferredVictoryType": "Scientific",
+    "startBias": [
+      "Plains"
+    ],
+    "innerColor": [
+      255,
+      215,
+      0
+    ],
+    "outerColor": [
+      64,
+      156,
+      160
+    ],
+    "uniqueName": "Lord of the Silk Road",
+    "uniques": [
+      "[+25]% [Gold] from Trade Routes",
+      "[+20]% [Science] [in all cities]"
+    ],
+    "cities": [
+      "Purushapura",
+      "Taxila",
+      "Mathura",
+      "Begram",
+      "Kapisa",
+      "Bactra",
+      "Kabul",
+      "Pushkalavati",
+      "Sirsukh",
+      "Termez"
+    ],
+    "startIntroPart1": "I am Kanishka, ruler of a realm that bridges worlds - Greek, Persian, Indian, and Chinese caravans all cross my lands on the Silk Road.",
+    "startIntroPart2": "Buddhist monks, Greek sculptors, and Central Asian horsemen all call my empire home. Trade with me, and prosper as my merchants do.",
+    "introduction": "I am Kanishka of the Kushans. My empire connects every road worth traveling - let us open one between us.",
+    "declaringWar": "My horse archers control every pass from here to the Silk Road's end. You will not enjoy crossing them as enemies.",
+    "defeated": "The roads I built will carry on without me. Someone else will profit from what I made.",
+    "neutralHello": "Welcome, traveler. The roads are safer when we are not enemies.",
+    "hateHello": "State your purpose and go.",
+    "civilopediaText": [
+      {
+        "text": "I am Kanishka, ruler of a realm that bridges worlds - Greek, Persian, Indian, and Chinese caravans all cross my lands on the Silk Road."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Lord of the Silk Road: +25% Gold from Trade Routes and +20% Science in all cities.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Kushan Horse Archer: a faster, hit-and-run Chariot Archer replacement."
+      },
+      {
+        "text": "Unique Building — Silk Road Caravanserai: replaces Mint; extra Gold from each Trade Route."
+      },
+      {
+        "text": "Unique Improvement — Silk Road Waystation: +2 Gold, +1 Science."
+      }
+    ]
+  },
+  {
+    "name": "Satavahana",
+    "leaderName": "Gautamiputra Satakarni",
+    "preferredVictoryType": "Cultural",
+    "startBias": [
+      "Plains"
+    ],
+    "innerColor": [
+      20,
+      20,
+      20
+    ],
+    "outerColor": [
+      183,
+      93,
+      36
+    ],
+    "uniqueName": "Lord of the Three Oceans",
+    "uniques": [
+      "[+25]% [Gold] from Trade Routes",
+      "[1] Happiness from each type of luxury resource"
+    ],
+    "cities": [
+      "Pratishthana",
+      "Amaravati",
+      "Junnar",
+      "Ter",
+      "Nashik",
+      "Kondapur",
+      "Dhanyakataka",
+      "Nevasa",
+      "Karimnagar",
+      "Bhattiprolu"
+    ],
+    "startIntroPart1": "I am Gautamiputra Satakarni, Lord of the Three Oceans. My ports on both coasts trade spices and cotton with Rome itself.",
+    "startIntroPart2": "I have restored the honor of my line and humbled the foreign Shaka invaders. Let our caravans cross paths in peace.",
+    "introduction": "I am Gautamiputra Satakarni of the Satavahanas. The Deccan's trade routes all answer to me - shall we put them to use?",
+    "declaringWar": "I drove the Shakas from my lands. You will find me no gentler.",
+    "defeated": "The trade routes I built will outlive this defeat, as they outlived every invader before you.",
+    "neutralHello": "Welcome to the Deccan. What brings you here?",
+    "hateHello": "Speak plainly.",
+    "civilopediaText": [
+      {
+        "text": "I am Gautamiputra Satakarni, Lord of the Three Oceans. My ports on both coasts trade spices and cotton with Rome itself."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Lord of the Three Oceans: +25% Gold from Trade Routes and +1 Happiness from each type of luxury resource.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Satavahana Spearman: a stronger Spearman replacement, bonus vs Mounted and Melee."
+      },
+      {
+        "text": "Unique Building — Satavahana Trade Hall: replaces Market; extra Gold from each Trade Route."
+      },
+      {
+        "text": "Unique Improvement — Cotton Terrace: +2 Gold."
+      }
+    ]
+  },
+  {
+    "name": "Pala",
+    "leaderName": "Dharmapala",
+    "preferredVictoryType": "Scientific",
+    "startBias": [
+      "Grassland"
+    ],
+    "innerColor": [
+      230,
+      190,
+      80
+    ],
+    "outerColor": [
+      25,
+      55,
+      109
+    ],
+    "uniqueName": "Patron of Vikramashila",
+    "uniques": [
+      "[+20]% [Faith]",
+      "[+20]% Great Person generation [in all cities]"
+    ],
+    "cities": [
+      "Gaur",
+      "Vikramashila",
+      "Monghyr",
+      "Pataliputra",
+      "Somapura",
+      "Mahasthangarh",
+      "Dhaka",
+      "Bhagalpur",
+      "Rajshahi",
+      "Varendra"
+    ],
+    "startIntroPart1": "I am Dharmapala, ruler of Bengal. I have founded the great monastery of Vikramashila, where scholars come from as far as Tibet to study.",
+    "startIntroPart2": "While others war over thrones, I build libraries that will outlast any throne. Let knowledge, not conquest, define our meeting.",
+    "introduction": "I am Dharmapala of the Palas. My monasteries draw scholars from across Asia - perhaps your people have wisdom to share as well.",
+    "declaringWar": "I had hoped for a meeting of scholars, not of armies. So be it.",
+    "defeated": "The monasteries I founded will keep teaching long after my throne is gone.",
+    "neutralHello": "Welcome. Knowledge flows more freely than gold in my court.",
+    "hateHello": "What is it now?",
+    "civilopediaText": [
+      {
+        "text": "I am Dharmapala, ruler of Bengal. I have founded the great monastery of Vikramashila, where scholars come from as far as Tibet to study."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Patron of Vikramashila: +20% Faith and +20% Great Person generation.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Pala Temple Guard: a stronger Pikeman replacement, bonus vs Mounted units."
+      },
+      {
+        "text": "Unique Building — Vikramashila Monastery: replaces Shrine; extra Faith."
+      },
+      {
+        "text": "Unique Improvement — Monastic Retreat: +1 Faith, +1 Science."
+      }
+    ]
+  },
+  {
+    "name": "Sikh Empire",
+    "leaderName": "Ranjit Singh",
+    "preferredVictoryType": "Domination",
+    "startBias": [
+      "Plains"
+    ],
+    "innerColor": [
+      255,
+      153,
+      51
+    ],
+    "outerColor": [
+      0,
+      32,
+      91
+    ],
+    "uniqueName": "Lion of Punjab",
+    "uniques": [
+      "[+20]% Production when constructing [Melee] units [in all cities]",
+      "[+20]% Strength for cities"
+    ],
+    "cities": [
+      "Lahore",
+      "Amritsar",
+      "Multan",
+      "Peshawar",
+      "Jammu",
+      "Srinagar",
+      "Attock",
+      "Sialkot",
+      "Ludhiana",
+      "Kangra"
+    ],
+    "startIntroPart1": "I am Ranjit Singh, the Lion of Punjab. Though I have but one eye, I have built an army that no power in Hindustan dares challenge.",
+    "startIntroPart2": "My Khalsa regiments are drilled in the modern way, and the Golden Temple I have gilded shines for every faith that wishes to pray there.",
+    "introduction": "I am Ranjit Singh. My court welcomes every faith and my army fears none - speak your business.",
+    "declaringWar": "The Lion of Punjab does not back down from a fight he did not start.",
+    "defeated": "One eye was always enough to see this coming, in the end.",
+    "neutralHello": "Welcome to Punjab. All faiths are honored guests here.",
+    "hateHello": "Choose your next words with care.",
+    "civilopediaText": [
+      {
+        "text": "I am Ranjit Singh, the Lion of Punjab. Though I have but one eye, I have built an army that no power in Hindustan dares challenge."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Lion of Punjab: +20% Production toward Melee units and +20% City Strength.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Akali Nihang: a stronger Rifleman replacement, bonus vs Mounted units."
+      },
+      {
+        "text": "Unique Building — Golden Temple Langar: replaces Bank; extra Happiness alongside its Gold."
+      },
+      {
+        "text": "Unique Improvement — Khalsa Outpost: +1 Production, 25% defensive bonus to units standing on it."
+      }
+    ]
+  },
+  {
+    "name": "Vardhana",
+    "leaderName": "Harsha",
+    "preferredVictoryType": "Cultural",
+    "startBias": [
+      "Grassland"
+    ],
+    "innerColor": [
+      255,
+      255,
+      255
+    ],
+    "outerColor": [
+      102,
+      51,
+      153
+    ],
+    "uniqueName": "Last of the Ancient Unifiers",
+    "uniques": [
+      "[+20]% [Culture] [in all cities]",
+      "[+20]% Great Person generation [in all cities]"
+    ],
+    "cities": [
+      "Kannauj",
+      "Sthanvishvara",
+      "Prayag",
+      "Varanasi",
+      "Ayodhya",
+      "Mathura",
+      "Pataliputra",
+      "Nalanda",
+      "Vaishali",
+      "Indraprastha"
+    ],
+    "startIntroPart1": "I am Harsha, ruler of Kannauj. A traveling monk named Xuanzang has written of my court for the people of distant China to read.",
+    "startIntroPart2": "I am said to be the last great king to unify the northern plains before the old order gives way. Let us see if your realm fares any better.",
+    "introduction": "I am Harshavardhana. My court welcomes scholars and pilgrims of every kind - I hope to welcome your envoys just as warmly.",
+    "declaringWar": "I had hoped this would remain a meeting of courts, not of armies.",
+    "defeated": "Even the great assemblies I held at Kannauj could not unite against this outcome.",
+    "neutralHello": "Welcome to Kannauj. What brings you to my court?",
+    "hateHello": "Speak your business and be done.",
+    "civilopediaText": [
+      {
+        "text": "I am Harsha, ruler of Kannauj. A traveling monk named Xuanzang has written of my court for the people of distant China to read."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Last of the Ancient Unifiers: +20% Culture in all cities and +20% Great Person generation.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Kannauj Royal Guard: a stronger Swordsman replacement that heals on a kill."
+      },
+      {
+        "text": "Unique Building — Harsha's Royal Court: replaces Aqueduct; extra Culture alongside its Food bonus."
+      },
+      {
+        "text": "Unique Improvement — Royal Rest House: +1 Gold, +1 Happiness."
+      }
+    ]
+  },
+  {
+    "name": "Hoysala",
+    "leaderName": "Vishnuvardhana",
+    "preferredVictoryType": "Cultural",
+    "startBias": [
+      "Hill"
+    ],
+    "innerColor": [
+      245,
+      245,
+      220
+    ],
+    "outerColor": [
+      101,
+      67,
+      33
+    ],
+    "uniqueName": "Strike, Sala!",
+    "uniques": [
+      "[+20]% [Culture] [in all cities]",
+      "[+20]% Production when constructing [Culture] wonders [in all cities]"
+    ],
+    "cities": [
+      "Belur",
+      "Halebidu",
+      "Dwarasamudra",
+      "Shravanabelagola",
+      "Tumkur",
+      "Mysuru",
+      "Channarayapatna",
+      "Arsikere",
+      "Hassan",
+      "Sakleshpur"
+    ],
+    "startIntroPart1": "I am Vishnuvardhana of the Hoysalas. My temples at Belur and Halebidu are carved with such detail that artisans say my sculptors worked in ivory, not stone.",
+    "startIntroPart2": "Every pillar, every star-shaped platform, tells a story. Let yours be one worth telling alongside it.",
+    "introduction": "I am Vishnuvardhana. My craftsmen have spent lifetimes on a single temple wall - I hope your civilization values such patience too.",
+    "declaringWar": "Strike, Sala! My ancestor's courage did not end with him.",
+    "defeated": "The temples will remain, even when the throne beneath them does not.",
+    "neutralHello": "Welcome. Have you come to admire our temples, or to talk business?",
+    "hateHello": "Speak quickly, I have temples to attend to.",
+    "civilopediaText": [
+      {
+        "text": "I am Vishnuvardhana of the Hoysalas. My temples at Belur and Halebidu are carved with such detail that artisans say my sculptors worked in ivory, not stone."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Strike, Sala!: +20% Culture in all cities and +20% Production toward Culture wonders.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Hoysala Vajra Guard: a stronger Longswordsman replacement, bonus vs cities."
+      },
+      {
+        "text": "Unique Building — Hoysaleswara Temple: replaces Stone Works; extra Culture alongside its Production."
+      },
+      {
+        "text": "Unique Improvement — Star Platform Shrine: +2 Culture."
+      }
+    ]
+  },
+  {
+    "name": "Pandya",
+    "leaderName": "Jatavarman Sundara Pandya",
+    "preferredVictoryType": "Cultural",
+    "startBias": [
+      "Coast"
+    ],
+    "innerColor": [
+      240,
+      240,
+      240
+    ],
+    "outerColor": [
+      0,
+      128,
+      128
+    ],
+    "uniqueName": "Lord of the Pearl Fishery",
+    "uniques": [
+      "[+25]% [Gold] from Trade Routes",
+      "[1] Happiness from each type of luxury resource"
+    ],
+    "cities": [
+      "Madurai",
+      "Korkai",
+      "Tenkasi",
+      "Tirunelveli",
+      "Rameswaram",
+      "Kayalpatnam",
+      "Sivaganga",
+      "Virudhunagar",
+      "Sankarankoil",
+      "Thoothukudi"
+    ],
+    "startIntroPart1": "I am Sundara Pandya, ruler of Madurai. My divers bring pearls from the southern straits, and poets gather in my hall to perfect the Tamil tongue.",
+    "startIntroPart2": "I have carried my banner from coast to coast and brought even the Cholas to heel. Bring your envoys, and let us discuss terms.",
+    "introduction": "I am Sundara Pandya of Madurai. My fishery and my fleets have made my house wealthy beyond most kingdoms - shall we trade?",
+    "declaringWar": "Even the Cholas learned to respect my fleets. You will learn the same lesson.",
+    "defeated": "The pearls will still wash ashore at Korkai, long after this empire is gone.",
+    "neutralHello": "Welcome to Madurai, city of the Meenakshi.",
+    "hateHello": "Be brief.",
+    "civilopediaText": [
+      {
+        "text": "I am Sundara Pandya, ruler of Madurai. My divers bring pearls from the southern straits, and poets gather in my hall to perfect the Tamil tongue."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Lord of the Pearl Fishery: +25% Gold from Trade Routes and +1 Happiness from each type of luxury resource.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Pandya Pearl Fleet: a stronger Caravel replacement that can withdraw from melee."
+      },
+      {
+        "text": "Unique Building — Pandya Pearl Market: replaces Circus; extra Happiness and Gold."
+      },
+      {
+        "text": "Unique Improvement — Spice Terrace: +2 Gold."
+      }
+    ]
+  },
+  {
+    "name": "Kakatiya",
+    "leaderName": "Rudrama Devi",
+    "preferredVictoryType": "Cultural",
+    "startBias": [
+      "Plains"
+    ],
+    "innerColor": [
+      0,
+      90,
+      90
+    ],
+    "outerColor": [
+      204,
+      119,
+      34
+    ],
+    "uniqueName": "Queen of Warangal",
+    "uniques": [
+      "[+20]% growth [in all cities]",
+      "[20]% Food is carried over after population increases [in all cities]"
+    ],
+    "cities": [
+      "Warangal",
+      "Hanamkonda",
+      "Khammam",
+      "Bhongir",
+      "Devarakonda",
+      "Golconda",
+      "Ghanpur",
+      "Palampet",
+      "Pillalamarri",
+      "Kazipet"
+    ],
+    "startIntroPart1": "I am Rudrama Devi, Queen of Warangal, raised and crowned as a king in all but name. My engineers have raised a thousand tanks to hold the monsoon rains.",
+    "startIntroPart2": "Every field around Warangal drinks from waters my people captured and saved. A kingdom that feeds itself need fear no siege.",
+    "introduction": "I am Rudrama Devi. Few expected a queen to hold this throne as firmly as I have - I trust you will judge me by my deeds, not my title.",
+    "declaringWar": "Many doubted a queen could lead an army. I have spent my reign proving them wrong.",
+    "defeated": "The tanks I built will still hold water long after this crown has passed to someone else.",
+    "neutralHello": "Welcome to Warangal. Speak your business.",
+    "hateHello": "I have little patience left for this.",
+    "civilopediaText": [
+      {
+        "text": "I am Rudrama Devi, Queen of Warangal, raised and crowned as a king in all but name. My engineers have raised a thousand tanks to hold the monsoon rains."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Queen of Warangal: +20% City growth, and 20% of surplus Food carries over after a population increase.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Kakatiya Warangal Guard: a stronger Crossbowman replacement, bonus vs cities."
+      },
+      {
+        "text": "Unique Building — Kakatiya Tank: replaces Water Mill; extra growth on top of its Food bonus."
+      },
+      {
+        "text": "Unique Improvement — Irrigation Channel: +2 Food."
+      }
+    ]
+  },
+  {
+    "name": "Nanda",
+    "leaderName": "Mahapadma Nanda",
+    "preferredVictoryType": "Domination",
+    "startBias": [
+      "Grassland"
+    ],
+    "innerColor": [
+      10,
+      10,
+      10
+    ],
+    "outerColor": [
+      184,
+      134,
+      11
+    ],
+    "uniqueName": "Lord of the Nine Treasures",
+    "uniques": [
+      "[+25]% [Gold]",
+      "[+20]% Production when constructing [Melee] units [in all cities]"
+    ],
+    "cities": [
+      "Pataliputra",
+      "Rajagriha",
+      "Vaishali",
+      "Champa",
+      "Anga",
+      "Magadha",
+      "Pundravardhana",
+      "Kaushambi",
+      "Saketa",
+      "Ekachakra"
+    ],
+    "startIntroPart1": "I am Mahapadma Nanda, first to call myself ruler of nearly all of Hindustan. My treasury is so vast that legends already speak of nine hoards no army can carry away.",
+    "startIntroPart2": "It is said even the Macedonian's army refused to march further upon hearing of the host I command. Let that be a lesson to you as well.",
+    "introduction": "I am Mahapadma Nanda. My armies are without rival in this age, and my treasury without equal. Speak your business.",
+    "declaringWar": "Even Alexander's soldiers refused to face the army I command. You will regret not learning from their caution.",
+    "defeated": "Gold and soldiers both, in the end, could not hold back what was to come.",
+    "neutralHello": "What brings you before the wealthiest throne in Hindustan?",
+    "hateHello": "Mind yourself.",
+    "civilopediaText": [
+      {
+        "text": "I am Mahapadma Nanda, first to call myself ruler of nearly all of Hindustan. My treasury is so vast that legends already speak of nine hoards no army can carry away."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Special Ability — Lord of the Nine Treasures: +25% Gold, and +20% Production toward Melee units.",
+        "color": "#ffeb7f"
+      },
+      {
+        "text": "Unique Unit — Nanda Royal Guard: a stronger Spearman replacement, bonus vs Mounted units."
+      },
+      {
+        "text": "Unique Building — Nanda Treasury: replaces Mint; extra Gold from each Trade Route."
+      },
+      {
+        "text": "Unique Improvement — Royal Granary Terrace: +1 Food, +1 Gold."
+      }
+    ]
+  }
+]
