@@ -1,0 +1,1082 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingPortraits/Badami Cave Temple
+  rotate: false
+  xy: 4, 796
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Delhi Madrasa
+  rotate: false
+  xy: 532, 1060
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Ellora Rock Temple
+  rotate: false
+  xy: 1060, 1588
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Golden Temple Langar
+  rotate: false
+  xy: 268, 532
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Hampi Bazaar
+  rotate: false
+  xy: 796, 1060
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Harsha's Royal Court
+  rotate: false
+  xy: 4, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Hoysaleswara Temple
+  rotate: false
+  xy: 796, 796
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Kakatiya Tank
+  rotate: false
+  xy: 1588, 1588
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Mahabalipuram Shore Temple
+  rotate: false
+  xy: 1060, 532
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Maratha Hill Fort
+  rotate: false
+  xy: 796, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Nagapattinam Harbor
+  rotate: false
+  xy: 1324, 268
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Nalanda Mahavihara
+  rotate: false
+  xy: 1588, 532
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Nanda Treasury
+  rotate: false
+  xy: 1588, 268
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Ashokan Pillar
+  rotate: false
+  xy: 268, 1324
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Astronomical Observatory
+  rotate: false
+  xy: 532, 1588
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Cave Sanctuary
+  rotate: false
+  xy: 268, 1060
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Cotton Terrace
+  rotate: false
+  xy: 268, 796
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Hampi Quarry
+  rotate: false
+  xy: 1060, 1324
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Hill Watchtower
+  rotate: false
+  xy: 268, 268
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Irrigation Channel
+  rotate: false
+  xy: 1060, 1060
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Khalsa Outpost
+  rotate: false
+  xy: 1324, 1060
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Monastic Retreat
+  rotate: false
+  xy: 1324, 532
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Monolithic Rath Shrine
+  rotate: false
+  xy: 1588, 796
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Mughal Hunting Ground
+  rotate: false
+  xy: 1060, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Akbar
+  rotate: false
+  xy: 4, 1324
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Alauddin Khalji
+  rotate: false
+  xy: 268, 1588
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Ashoka
+  rotate: false
+  xy: 4, 1060
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Chandragupta II
+  rotate: false
+  xy: 796, 1588
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Dharmapala
+  rotate: false
+  xy: 796, 1324
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Gautamiputra Satakarni
+  rotate: false
+  xy: 4, 268
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Harsha
+  rotate: false
+  xy: 1324, 1588
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Jatavarman Sundara Pandya
+  rotate: false
+  xy: 1324, 1324
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Kanishka
+  rotate: false
+  xy: 532, 268
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Krishna I
+  rotate: false
+  xy: 1588, 1324
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Krishnadevaraya
+  rotate: false
+  xy: 532, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Mahapadma Nanda
+  rotate: false
+  xy: 1324, 796
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Narasimhavarman I
+  rotate: false
+  xy: 1588, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Akali Nihang
+  rotate: false
+  xy: 4, 1588
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Chalukya Swordsman
+  rotate: false
+  xy: 532, 1324
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Chola Catamaran
+  rotate: false
+  xy: 4, 532
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Gupta Cavalry
+  rotate: false
+  xy: 532, 796
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Hoysala Vajra Guard
+  rotate: false
+  xy: 532, 532
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Kakatiya Warangal Guard
+  rotate: false
+  xy: 268, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Kannauj Royal Guard
+  rotate: false
+  xy: 796, 532
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Khalji Ghazi
+  rotate: false
+  xy: 1060, 796
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Kushan Horse Archer
+  rotate: false
+  xy: 796, 268
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Maratha Bargir
+  rotate: false
+  xy: 1588, 1060
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Mauryan War Elephant
+  rotate: false
+  xy: 1060, 268
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Nanda Royal Guard
+  rotate: false
+  xy: 1324, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Badami Cave Temple
+  rotate: false
+  xy: 796, 740
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Delhi Madrasa
+  rotate: false
+  xy: 1796, 1588
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ellora Rock Temple
+  rotate: false
+  xy: 1588, 1380
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Golden Temple Langar
+  rotate: false
+  xy: 1796, 1380
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hampi Bazaar
+  rotate: false
+  xy: 476, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Harsha's Royal Court
+  rotate: false
+  xy: 740, 476
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hoysaleswara Temple
+  rotate: false
+  xy: 1004, 740
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Kakatiya Tank
+  rotate: false
+  xy: 1268, 1004
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mahabalipuram Shore Temple
+  rotate: false
+  xy: 948, 324
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Maratha Hill Fort
+  rotate: false
+  xy: 892, 60
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nagapattinam Harbor
+  rotate: false
+  xy: 1836, 548
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nalanda Mahavihara
+  rotate: false
+  xy: 1212, 380
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nanda Treasury
+  rotate: false
+  xy: 1628, 340
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pandya Pearl Market
+  rotate: false
+  xy: 1516, 132
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Pandya Pearl Market
+  rotate: false
+  xy: 4, 1212
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Sanchi Stupa
+  rotate: false
+  xy: 532, 1212
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Satavahana Trade Hall
+  rotate: false
+  xy: 4, 420
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Shalimar Bagh
+  rotate: false
+  xy: 268, 684
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Silk Road Caravanserai
+  rotate: false
+  xy: 796, 1212
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Vikramashila Monastery
+  rotate: false
+  xy: 796, 948
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Quarry Terrace
+  rotate: false
+  xy: 532, 1740
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Royal Granary Terrace
+  rotate: false
+  xy: 796, 1740
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Royal Rest House
+  rotate: false
+  xy: 4, 684
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Sarai Outpost
+  rotate: false
+  xy: 796, 1476
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Silk Road Waystation
+  rotate: false
+  xy: 1060, 1476
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Spice Terrace
+  rotate: false
+  xy: 1324, 1740
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Star Platform Shrine
+  rotate: false
+  xy: 4, 156
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Temple Tank
+  rotate: false
+  xy: 268, 420
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Pulakeshin II
+  rotate: false
+  xy: 268, 1476
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Rajaraja Chola I
+  rotate: false
+  xy: 4, 948
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Ranjit Singh
+  rotate: false
+  xy: 268, 1212
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Rudrama Devi
+  rotate: false
+  xy: 268, 948
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Shivaji
+  rotate: false
+  xy: 532, 948
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Vishnuvardhana
+  rotate: false
+  xy: 1060, 1212
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Ashokan Pillar
+  rotate: false
+  xy: 268, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Astronomical Observatory
+  rotate: false
+  xy: 532, 476
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Cave Sanctuary
+  rotate: false
+  xy: 1060, 1004
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Cotton Terrace
+  rotate: false
+  xy: 1796, 1796
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Hampi Quarry
+  rotate: false
+  xy: 476, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Hill Watchtower
+  rotate: false
+  xy: 684, 268
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Irrigation Channel
+  rotate: false
+  xy: 948, 532
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Khalsa Outpost
+  rotate: false
+  xy: 1476, 964
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Monastic Retreat
+  rotate: false
+  xy: 1684, 756
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Monolithic Rath Shrine
+  rotate: false
+  xy: 1420, 548
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Mughal Hunting Ground
+  rotate: false
+  xy: 1628, 548
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Quarry Terrace
+  rotate: false
+  xy: 1724, 132
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Akali Nihang
+  rotate: false
+  xy: 1588, 1796
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Chalukya Swordsman
+  rotate: false
+  xy: 1324, 1268
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Chola Catamaran
+  rotate: false
+  xy: 1588, 1588
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Gupta Cavalry
+  rotate: false
+  xy: 268, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Hoysala Vajra Guard
+  rotate: false
+  xy: 684, 60
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Kakatiya Warangal Guard
+  rotate: false
+  xy: 1212, 796
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Kannauj Royal Guard
+  rotate: false
+  xy: 1532, 1172
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Khalji Ghazi
+  rotate: false
+  xy: 1740, 1172
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Kushan Horse Archer
+  rotate: false
+  xy: 1684, 964
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Maratha Bargir
+  rotate: false
+  xy: 1212, 588
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Mauryan War Elephant
+  rotate: false
+  xy: 1476, 756
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Nanda Royal Guard
+  rotate: false
+  xy: 1420, 340
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Pala Temple Guard
+  rotate: false
+  xy: 1836, 340
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Pallava War Galley
+  rotate: false
+  xy: 1100, 116
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Pandya Pearl Fleet
+  rotate: false
+  xy: 1308, 132
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPortraits/Pala Temple Guard
+  rotate: false
+  xy: 4, 1740
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Pallava War Galley
+  rotate: false
+  xy: 4, 1476
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Pandya Pearl Fleet
+  rotate: false
+  xy: 268, 1740
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Rashtrakuta Warship
+  rotate: false
+  xy: 532, 1476
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Satavahana Spearman
+  rotate: false
+  xy: 1060, 1740
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Vijayanagara Nayaka
+  rotate: false
+  xy: 532, 684
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Zamburak
+  rotate: false
+  xy: 1324, 1476
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+game3.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Sanchi Stupa
+  rotate: false
+  xy: 4, 320
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Satavahana Trade Hall
+  rotate: false
+  xy: 4, 112
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Shalimar Bagh
+  rotate: false
+  xy: 212, 320
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Silk Road Caravanserai
+  rotate: false
+  xy: 420, 528
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Vikramashila Monastery
+  rotate: false
+  xy: 420, 112
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Chalukya
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Chola
+  rotate: false
+  xy: 836, 628
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Delhi Sultanate
+  rotate: false
+  xy: 1044, 836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Gupta
+  rotate: false
+  xy: 628, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Hoysala
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kakatiya
+  rotate: false
+  xy: 836, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kushan
+  rotate: false
+  xy: 1152, 836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Marathas
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Maurya
+  rotate: false
+  xy: 836, 412
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Mughals
+  rotate: false
+  xy: 1260, 836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Nanda
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Pala
+  rotate: false
+  xy: 1368, 836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Pallava
+  rotate: false
+  xy: 436, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Pandya
+  rotate: false
+  xy: 1476, 836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Rashtrakuta
+  rotate: false
+  xy: 1584, 836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Satavahana
+  rotate: false
+  xy: 1692, 836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sikh Empire
+  rotate: false
+  xy: 1800, 836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Vardhana
+  rotate: false
+  xy: 1908, 836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Vijayanagara
+  rotate: false
+  xy: 944, 628
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Royal Granary Terrace
+  rotate: false
+  xy: 4, 528
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Royal Rest House
+  rotate: false
+  xy: 212, 736
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Sarai Outpost
+  rotate: false
+  xy: 212, 528
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Silk Road Waystation
+  rotate: false
+  xy: 628, 736
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Spice Terrace
+  rotate: false
+  xy: 212, 112
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Star Platform Shrine
+  rotate: false
+  xy: 420, 320
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileImprovementIcons/Temple Tank
+  rotate: false
+  xy: 628, 528
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Rashtrakuta Warship
+  rotate: false
+  xy: 4, 736
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Satavahana Spearman
+  rotate: false
+  xy: 420, 736
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Vijayanagara Nayaka
+  rotate: false
+  xy: 836, 736
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Zamburak
+  rotate: false
+  xy: 628, 320
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
