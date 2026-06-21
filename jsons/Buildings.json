@@ -1,0 +1,292 @@
+[
+  {
+    "name": "Sanchi Stupa",
+    "uniqueTo": "Maurya",
+    "replaces": "Temple",
+    "faith": 3,
+    "culture": 1,
+    "requiredBuilding": "Shrine",
+    "maintenance": 2,
+    "hurryCostModifier": 25,
+    "requiredTech": "Philosophy",
+    "uniques": [
+      "Only available <when religion is enabled>",
+      "Destroyed when the city is captured"
+    ]
+  },
+  {
+    "name": "Nalanda Mahavihara",
+    "uniqueTo": "Gupta",
+    "replaces": "Library",
+    "science": 1,
+    "culture": 1,
+    "hurryCostModifier": 25,
+    "maintenance": 1,
+    "requiredTech": "Writing",
+    "uniques": [
+      "[+1 Science] per [2] population [in this city]",
+      "[+25]% Great Person generation [in this city]"
+    ]
+  },
+  {
+    "name": "Nagapattinam Harbor",
+    "uniqueTo": "Chola",
+    "replaces": "Harbor",
+    "gold": 2,
+    "cost": 120,
+    "maintenance": 3,
+    "hurryCostModifier": 25,
+    "requiredTech": "Compass",
+    "uniques": [
+      "[+1 Production] from [Water resource] tiles [in this city]",
+      "Connects trade routes over water",
+      "Must be next to [Coast]",
+      "[+15]% Production when constructing [Water] units [in this city]"
+    ]
+  },
+  {
+    "name": "Shalimar Bagh",
+    "uniqueTo": "Mughals",
+    "replaces": "Garden",
+    "happiness": 2,
+    "culture": 1,
+    "hurryCostModifier": 25,
+    "maintenance": 1,
+    "requiredTech": "Theology",
+    "uniques": [
+      "[+25]% Great Person generation [in this city]",
+      "Must be next to [Fresh water]"
+    ]
+  },
+  {
+    "name": "Hampi Bazaar",
+    "uniqueTo": "Vijayanagara",
+    "replaces": "Market",
+    "gold": 3,
+    "specialistSlots": {
+      "Merchant": 1
+    },
+    "hurryCostModifier": 25,
+    "percentStatBonus": {
+      "gold": 30
+    },
+    "requiredTech": "Currency",
+    "uniques": [
+      "Provides 1 extra copy of each improved luxury resource near this City"
+    ]
+  },
+  {
+    "name": "Maratha Hill Fort",
+    "uniqueTo": "Marathas",
+    "replaces": "Walls",
+    "cityStrength": 7,
+    "cityHealth": 60,
+    "hurryCostModifier": 25,
+    "requiredTech": "Masonry",
+    "uniques": [
+      "Destroyed when the city is captured",
+      "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
+    ]
+  },
+  {
+    "name": "Delhi Madrasa",
+    "uniqueTo": "Delhi Sultanate",
+    "replaces": "University",
+    "culture": 1,
+    "maintenance": 2,
+    "hurryCostModifier": 15,
+    "percentStatBonus": {
+      "science": 33
+    },
+    "specialistSlots": {
+      "Scientist": 2
+    },
+    "requiredBuilding": "Library",
+    "requiredTech": "Education",
+    "uniques": [
+      "[+2 Science] from [Jungle] tiles [in this city]"
+    ]
+  },
+  {
+    "name": "Mahabalipuram Shore Temple",
+    "uniqueTo": "Pallava",
+    "replaces": "Lighthouse",
+    "culture": 1,
+    "cost": 75,
+    "hurryCostModifier": 25,
+    "maintenance": 1,
+    "requiredTech": "Optics",
+    "uniques": [
+      "Must be next to [Coast]",
+      "[+1 Food] from [Ocean] tiles [in this city]",
+      "[+1 Food] from [Coast] tiles [in this city]",
+      "[+1 Food] from [Fish] tiles [in this city]"
+    ]
+  },
+  {
+    "name": "Badami Cave Temple",
+    "uniqueTo": "Chalukya",
+    "replaces": "Monument",
+    "culture": 3,
+    "faith": 1,
+    "cost": 40,
+    "hurryCostModifier": 40,
+    "maintenance": 1,
+    "uniques": [
+      "Destroyed when the city is captured"
+    ]
+  },
+  {
+    "name": "Ellora Rock Temple",
+    "uniqueTo": "Rashtrakuta",
+    "replaces": "Workshop",
+    "culture": 1,
+    "maintenance": 2,
+    "production": 2,
+    "specialistSlots": {
+      "Engineer": 1
+    },
+    "hurryCostModifier": 25,
+    "percentStatBonus": {
+      "production": 10
+    },
+    "requiredTech": "Metal Casting"
+  },
+  {
+    "name": "Silk Road Caravanserai",
+    "uniqueTo": "Kushan",
+    "replaces": "Mint",
+    "gold": 1,
+    "maintenance": 0,
+    "requiredNearbyImprovedResources": [
+      "Gold Ore",
+      "Silver"
+    ],
+    "hurryCostModifier": 25,
+    "requiredTech": "Currency",
+    "uniques": [
+      "[+2 Gold] from [Gold Ore] tiles [in this city]",
+      "[+2 Gold] from [Silver] tiles [in this city]",
+      "[+1 Gold] from each Trade Route"
+    ]
+  },
+  {
+    "name": "Satavahana Trade Hall",
+    "uniqueTo": "Satavahana",
+    "replaces": "Market",
+    "gold": 3,
+    "specialistSlots": {
+      "Merchant": 1
+    },
+    "hurryCostModifier": 25,
+    "percentStatBonus": {
+      "gold": 25
+    },
+    "requiredTech": "Currency",
+    "uniques": [
+      "[+1 Gold] from each Trade Route"
+    ]
+  },
+  {
+    "name": "Vikramashila Monastery",
+    "uniqueTo": "Pala",
+    "replaces": "Shrine",
+    "faith": 2,
+    "culture": 1,
+    "cost": 40,
+    "maintenance": 1,
+    "requiredTech": "Pottery",
+    "uniques": [
+      "Only available <when religion is enabled>"
+    ]
+  },
+  {
+    "name": "Golden Temple Langar",
+    "uniqueTo": "Sikh Empire",
+    "replaces": "Bank",
+    "gold": 2,
+    "happiness": 2,
+    "specialistSlots": {
+      "Merchant": 1
+    },
+    "hurryCostModifier": 15,
+    "percentStatBonus": {
+      "gold": 25
+    },
+    "requiredBuilding": "Market",
+    "requiredTech": "Banking"
+  },
+  {
+    "name": "Harsha's Royal Court",
+    "uniqueTo": "Vardhana",
+    "replaces": "Aqueduct",
+    "culture": 1,
+    "maintenance": 1,
+    "hurryCostModifier": 0,
+    "requiredTech": "Engineering",
+    "uniques": [
+      "[40]% Food is carried over after population increases [in this city]"
+    ]
+  },
+  {
+    "name": "Hoysaleswara Temple",
+    "uniqueTo": "Hoysala",
+    "replaces": "Stone Works",
+    "culture": 2,
+    "happiness": 1,
+    "production": 1,
+    "requiredNearbyImprovedResources": [
+      "Marble",
+      "Stone"
+    ],
+    "maintenance": 1,
+    "hurryCostModifier": 0,
+    "requiredTech": "Calendar",
+    "uniques": [
+      "Must not be on [Plains]",
+      "[+1 Production] from [Stone] tiles [in this city]",
+      "[+1 Production] from [Marble] tiles [in this city]"
+    ]
+  },
+  {
+    "name": "Pandya Pearl Market",
+    "uniqueTo": "Pandya",
+    "replaces": "Circus",
+    "happiness": 2,
+    "gold": 1,
+    "hurryCostModifier": 25,
+    "requiredTech": "Trapping"
+  },
+  {
+    "name": "Kakatiya Tank",
+    "uniqueTo": "Kakatiya",
+    "replaces": "Water Mill",
+    "food": 3,
+    "production": 1,
+    "maintenance": 2,
+    "hurryCostModifier": 25,
+    "requiredTech": "The Wheel",
+    "uniques": [
+      "Must be on [River]",
+      "[+20]% growth [in this city]"
+    ]
+  },
+  {
+    "name": "Nanda Treasury",
+    "uniqueTo": "Nanda",
+    "replaces": "Mint",
+    "gold": 2,
+    "maintenance": 0,
+    "requiredNearbyImprovedResources": [
+      "Gold Ore",
+      "Silver"
+    ],
+    "hurryCostModifier": 25,
+    "requiredTech": "Currency",
+    "uniques": [
+      "[+2 Gold] from [Gold Ore] tiles [in this city]",
+      "[+2 Gold] from [Silver] tiles [in this city]",
+      "[+1 Gold] from each Trade Route"
+    ]
+  }
+]
