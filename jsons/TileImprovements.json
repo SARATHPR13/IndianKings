@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Ashokan Pillar",
+    "uniqueTo": "Maurya",
+    "terrainsCanBeBuiltOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "techRequired": "Philosophy",
+    "turnsToBuild": 3,
+    "culture": 2,
+    "faith": 1,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Maurya, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +2 Culture, +1 Faith."
+      }
+    ]
+  },
+  {
+    "name": "Astronomical Observatory",
+    "uniqueTo": "Gupta",
+    "terrainsCanBeBuiltOn": [
+      "Hill"
+    ],
+    "techRequired": "Astronomy",
+    "turnsToBuild": 4,
+    "science": 3,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Gupta, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +3 Science."
+      }
+    ]
+  },
+  {
+    "name": "Temple Tank",
+    "uniqueTo": "Chola",
+    "terrainsCanBeBuiltOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "techRequired": "Pottery",
+    "turnsToBuild": 3,
+    "food": 1,
+    "gold": 2,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Chola, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +1 Food, +2 Gold."
+      }
+    ]
+  },
+  {
+    "name": "Mughal Hunting Ground",
+    "uniqueTo": "Mughals",
+    "terrainsCanBeBuiltOn": [
+      "Forest",
+      "Jungle"
+    ],
+    "techRequired": "Trapping",
+    "turnsToBuild": 3,
+    "happiness": 1,
+    "gold": 1,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Mughals, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +1 Happiness, +1 Gold."
+      }
+    ]
+  },
+  {
+    "name": "Hampi Quarry",
+    "uniqueTo": "Vijayanagara",
+    "terrainsCanBeBuiltOn": [
+      "Hill"
+    ],
+    "techRequired": "Mining",
+    "turnsToBuild": 4,
+    "production": 2,
+    "gold": 1,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Vijayanagara, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +2 Production, +1 Gold."
+      }
+    ]
+  },
+  {
+    "name": "Hill Watchtower",
+    "uniqueTo": "Marathas",
+    "terrainsCanBeBuiltOn": [
+      "Hill"
+    ],
+    "techRequired": "Masonry",
+    "turnsToBuild": 3,
+    "culture": 1,
+    "uniques": [
+      "Gives a defensive bonus of [25]%"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Marathas, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +1 Culture, 25% defensive bonus to units standing on it."
+      }
+    ]
+  },
+  {
+    "name": "Sarai Outpost",
+    "uniqueTo": "Delhi Sultanate",
+    "terrainsCanBeBuiltOn": [
+      "Plains",
+      "Desert"
+    ],
+    "techRequired": "The Wheel",
+    "turnsToBuild": 3,
+    "gold": 2,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Delhi Sultanate, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +2 Gold."
+      }
+    ]
+  },
+  {
+    "name": "Monolithic Rath Shrine",
+    "uniqueTo": "Pallava",
+    "terrainsCanBeBuiltOn": [
+      "Hill"
+    ],
+    "techRequired": "Masonry",
+    "turnsToBuild": 4,
+    "culture": 2,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Pallava, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +2 Culture."
+      }
+    ]
+  },
+  {
+    "name": "Cave Sanctuary",
+    "uniqueTo": "Chalukya",
+    "terrainsCanBeBuiltOn": [
+      "Hill"
+    ],
+    "techRequired": "Masonry",
+    "turnsToBuild": 4,
+    "faith": 1,
+    "culture": 1,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Chalukya, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +1 Faith, +1 Culture."
+      }
+    ]
+  },
+  {
+    "name": "Quarry Terrace",
+    "uniqueTo": "Rashtrakuta",
+    "terrainsCanBeBuiltOn": [
+      "Hill"
+    ],
+    "techRequired": "Mining",
+    "turnsToBuild": 4,
+    "production": 2,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Rashtrakuta, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +2 Production."
+      }
+    ]
+  },
+  {
+    "name": "Silk Road Waystation",
+    "uniqueTo": "Kushan",
+    "terrainsCanBeBuiltOn": [
+      "Plains",
+      "Desert"
+    ],
+    "techRequired": "The Wheel",
+    "turnsToBuild": 3,
+    "gold": 2,
+    "science": 1,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Kushan, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +2 Gold, +1 Science."
+      }
+    ]
+  },
+  {
+    "name": "Cotton Terrace",
+    "uniqueTo": "Satavahana",
+    "terrainsCanBeBuiltOn": [
+      "Plains"
+    ],
+    "techRequired": "Calendar",
+    "turnsToBuild": 3,
+    "gold": 2,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Satavahana, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +2 Gold."
+      }
+    ]
+  },
+  {
+    "name": "Monastic Retreat",
+    "uniqueTo": "Pala",
+    "terrainsCanBeBuiltOn": [
+      "Forest",
+      "Hill"
+    ],
+    "techRequired": "Philosophy",
+    "turnsToBuild": 4,
+    "faith": 1,
+    "science": 1,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Pala, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +1 Faith, +1 Science."
+      }
+    ]
+  },
+  {
+    "name": "Khalsa Outpost",
+    "uniqueTo": "Sikh Empire",
+    "terrainsCanBeBuiltOn": [
+      "Plains",
+      "Hill"
+    ],
+    "techRequired": "Gunpowder",
+    "turnsToBuild": 3,
+    "production": 1,
+    "uniques": [
+      "Gives a defensive bonus of [25]%"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Sikh Empire, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +1 Production, 25% defensive bonus to units standing on it."
+      }
+    ]
+  },
+  {
+    "name": "Royal Rest House",
+    "uniqueTo": "Vardhana",
+    "terrainsCanBeBuiltOn": [
+      "Plains"
+    ],
+    "techRequired": "The Wheel",
+    "turnsToBuild": 3,
+    "gold": 1,
+    "happiness": 1,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Vardhana, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +1 Gold, +1 Happiness."
+      }
+    ]
+  },
+  {
+    "name": "Star Platform Shrine",
+    "uniqueTo": "Hoysala",
+    "terrainsCanBeBuiltOn": [
+      "Hill",
+      "Plains"
+    ],
+    "techRequired": "Masonry",
+    "turnsToBuild": 4,
+    "culture": 2,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Hoysala, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +2 Culture."
+      }
+    ]
+  },
+  {
+    "name": "Spice Terrace",
+    "uniqueTo": "Pandya",
+    "terrainsCanBeBuiltOn": [
+      "Plains",
+      "Jungle"
+    ],
+    "techRequired": "Calendar",
+    "turnsToBuild": 3,
+    "gold": 2,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Pandya, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +2 Gold."
+      }
+    ]
+  },
+  {
+    "name": "Irrigation Channel",
+    "uniqueTo": "Kakatiya",
+    "terrainsCanBeBuiltOn": [
+      "Plains",
+      "Grassland"
+    ],
+    "techRequired": "The Wheel",
+    "turnsToBuild": 3,
+    "food": 2,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Kakatiya, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +2 Food."
+      }
+    ]
+  },
+  {
+    "name": "Royal Granary Terrace",
+    "uniqueTo": "Nanda",
+    "terrainsCanBeBuiltOn": [
+      "Plains",
+      "Grassland"
+    ],
+    "techRequired": "Bronze Working",
+    "turnsToBuild": 3,
+    "food": 1,
+    "gold": 1,
+    "civilopediaText": [
+      {
+        "text": "A unique improvement for the Nanda, reflecting their historical character."
+      },
+      {
+        "text": "Effect: +1 Food, +1 Gold."
+      }
+    ]
+  }
+]
